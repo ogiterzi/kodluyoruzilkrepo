@@ -21,7 +21,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://github.com/ogiterzi/kodluyoruzilkrepo/blob/main/LICENSE)
 
+![Proje Resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
- 
 
 
